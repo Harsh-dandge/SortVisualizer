@@ -7,6 +7,7 @@
 3. Selection Sort
 4. Merge Sort
 5. Quick Sort
+.
 
 The project is hosted on :-
 <a href="https://sort-visualizer-3f491.web.app">https://sort-visualizer-3f491.web.app</a>
